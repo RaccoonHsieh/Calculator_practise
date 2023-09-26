@@ -122,6 +122,6 @@ decimalbtn.addEventListener('click', () => {
         }else{
             displayVal += '.';
             displayValElement.innerText = displayVal;
-        }
-    }
+        };
+    };
 });
